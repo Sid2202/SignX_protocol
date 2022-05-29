@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 import "hardhat/console.sol";
-
+//solidity code
 contract SignX {
     uint totalSigns;
 
